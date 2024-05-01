@@ -1,0 +1,16 @@
+body {
+  background-color: #a8acaf;
+}
+
+canvas {
+  border: 2px solid #28a745;
+  border-radius: 5px;
+}
+
+.card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.card-header {
+  background-color: #28a745 !important;
+}
